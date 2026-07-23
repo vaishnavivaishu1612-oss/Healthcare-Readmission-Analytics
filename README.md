@@ -26,10 +26,8 @@ This project analyzes hospital readmission trends using healthcare patient data.
 - age_group_summary.csv
 
 ## 📸 Dashboard Preview
-
 ```markdown
 ![Dashboard](dashboard.png)
-```
 
 ## 👩‍💻 Author
 
