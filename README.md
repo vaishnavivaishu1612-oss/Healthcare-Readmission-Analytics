@@ -27,8 +27,6 @@ This project analyzes hospital readmission trends using healthcare patient data.
 
 ## 📸 Dashboard Preview
 
-*(Upload a screenshot named `dashboard.png` later, then replace this line with:)*
-
 ```markdown
 ![Dashboard](dashboard.png)
 ```
